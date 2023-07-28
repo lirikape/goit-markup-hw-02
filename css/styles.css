@@ -56,6 +56,9 @@ body{
 address{
     font-style: normal;
 }
+.adrs{
+    font-style: normal;
+}
 
 .mail-phone{
     font-size: 16px;
