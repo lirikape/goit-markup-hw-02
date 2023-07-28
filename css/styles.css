@@ -11,9 +11,10 @@
 body{
     font-family: "Roboto", sans-serif;
     color: #2E2F42;
-    color: #434455 
+    color: #434455; 
     background-color: var(#FFFFFF);
 }
+
 /* header */
 
 .logo{
@@ -28,7 +29,7 @@ body{
    
 }
 
-.logo .span-logo-top{
+.span-logo-up{
     color: var(--navyblue);
 }
 
@@ -81,7 +82,7 @@ address{
     letter-spacing: 0.02em;
     color: var(--white);
 }
-.button_order {
+.button_or {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -91,8 +92,8 @@ address{
     color: #ffffff;
     cursor: pointer;
 }
-.button_order:hover,
-.button_order:focus {
+.button_or:hover,
+.button_or:focus {
     background-color: #404BBF;
 }
 
