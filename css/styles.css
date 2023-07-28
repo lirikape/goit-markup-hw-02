@@ -1,4 +1,4 @@
-:root{
+:root {
     --navyblue: #2E2F42;
     --slate: #434455;
     --ocean: #404BBF;
@@ -12,7 +12,7 @@ body {
     font-family: "Roboto", sans-serif;
     color: #2E2F42;
     color: #434455; 
-    background-color: #FFFFFF;
+    background-color: var(--white);
 }
 
 /* header */
